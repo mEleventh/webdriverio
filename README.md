@@ -84,7 +84,7 @@
 ### المراسل
 
 - [@wdio/allure-reporter](https://github.com/webdriverio/webdriverio/tree/main/packages/wdio-allure-reporter)
-- برنامج المساعد لمراسل WebdriverIO لتقارير إخبارية اختبار Allure.
+- برنامج المساعد لمراسل WebdriverIO لتقارير اختبار Allure.
 
 - [@wdio/concise-reporter](https://github.com/webdriverio/webdriverio/tree/main/packages/wdio-concise-reporter)
 - مكون إضافي لمراسل WebdriverIO لإنشاء تقارير اختبار موجزة.
@@ -142,43 +142,6 @@
 - [@wdio/smoke-test-service](https://github.com/webdriverio/webdriverio/tree/main/packages/wdio-smoke-test-service) - A WebdriverIO utility to smoke test services for internal testing purposes
 - [@wdio/webdriver-mock-service](https://github.com/webdriverio/webdriverio/tree/main/packages/wdio-webdriver-mock-service) - A WebdriverIO service to stub all endpoints for internal testing purposes
 
-## :handshake: Project Governance
-
-This project is maintained by [awesome people](/AUTHORS.md) following a common [set of rules](/GOVERNANCE.md) and treating each other with [respect and appreciation](/CODE_OF_CONDUCT.md).
-
-## :man_cook: :woman_cook: Backers
-
-[Become a backer](https://opencollective.com/webdriverio) and show your support for our open-source project.
-
-<a href="https://opencollective.com/webdriverio"><img src="https://opencollective.com/webdriverio/tiers/baker.svg?avatarHeight=36&width=600"></a>
-
-## :money_with_wings: Sponsors
-
-Does your company use WebdriverIO? Ask your manager or marketing team if your company would be interested in supporting our project. Support will allow the maintainers to dedicate more time to maintenance and new features for everyone. Also, your company's logo will show [on GitHub](https://github.com/webdriverio/webdriverio#readme) - who doesn't want a little extra exposure? [Here's the info](https://opencollective.com/webdriverio).
-
-<a href="https://opencollective.com/webdriverio"><img src="https://opencollective.com/webdriverio/tiers/gold-sponsor.svg?avatarHeight=36&width=600"></a>
-
-### 💎 Premium Sponsor
-
-We are immensely grateful to our exclusive Premium Sponsor for their invaluable support in the development of this project:
-
-<p align="center">
-    <a href="https://www.browserstack.com/automation-webdriverio"><img src="https://webdriver.io/img/sponsors/browserstack_black.svg" alt="BrowserStack" /></a>
-    &nbsp; &nbsp; &nbsp;
-    <a href="https://saucelabs.com"><img src="https://webdriver.io/img/sponsors/saucelabs_black.svg" alt="Sauce Labs" width=400 /></a>
-</p>
-
-### 🥈 Silver Sponsor
-
-<p align="center">
-    <a href="https://www.lambdatest.com/"><img src="https://webdriver.io/img/sponsors/lambdatest_black.svg" width="300" alt="Lambdatest" /></a>
-</p>
-
-### 🥉 Bronze Sponsor
-
-<p align="center">
-    <a href="https://eslint.org/"><img src="https://eslint.org/assets/images/logo/eslint-logo-color.png" alt="Eslint" /></a>
-</p>
 
 ## :page_facing_up: License
 
